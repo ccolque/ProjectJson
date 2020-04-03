@@ -46,7 +46,7 @@
           "Id":"SurveySymptomId_1",
           "SurveyId":"SurveyId_1",
           "SymptomId":"ID_DOLOR_GARGANTA",
-          "Symtom":{
+          "Symptom":{
             "Id":"ID_DOLOR_GARGANTA",
             "Name":"Dolor de Garganta"
           }
@@ -138,7 +138,7 @@
           "Id":"SurveySymptomId_2",
           "SurveyId":"SurveyId_2",
           "SymptomId":"ID_DOLOR_GARGANTA",
-          "Symtom":{
+          "Symptom":{
             "Id":"ID_DOLOR_GARGANTA",
             "Name":"Dolor de Garganta"
           }
@@ -147,7 +147,7 @@
           "Id":"SurveySymptomId_3",
           "SurveyId":"SurveyId_2",
           "SymptomId":"ID_FIEBRE",
-          "Symtom":{
+          "Symptom":{
             "Id":"ID_FIEBRE",
             "Name":"Fiebre (fiebre de 38º o mas)"
           }
@@ -156,7 +156,7 @@
           "Id":"SurveySymptomId_4",
           "SurveyId":"SurveyId_2",
           "SymptomId":"ID_DIFICULTAD_RESPIRATORIA",
-          "Symtom":{
+          "Symptom":{
             "Id":"ID_DIFICULTAD_RESPIRATORIA",
             "Name":"Dificultad respiratoria (agitación, disnea, falta de aire)"
           }
@@ -266,7 +266,7 @@
           "Id":"SurveySymptomId_5",
           "SurveyId":"SurveyId_3",
           "SymptomId":"ID_FIEBRE",
-          "Symtom":{
+          "Symptom":{
             "Id":"ID_FIEBRE",
             "Name":"Fiebre (fiebre de 38º o mas)"
           }
@@ -275,7 +275,7 @@
           "Id":"SurveySymptomId_6",
           "SurveyId":"SurveyId_3",
           "SymptomId":"ID_TOS",
-          "Symtom":{
+          "Symptom":{
             "Id":"ID_TOS",
             "Name":"Tos"
           }
