@@ -1,0 +1,329 @@
+[{
+  "Id":"TestId_1",
+  "PersonId":"PersonId_1",
+  "Person":{
+    "Id":"PersonId_1",
+    "DocumentTypeId":"ID_DNI",
+    "DocumentType": {
+      "Id":"ID_DNI",
+      "Name": "DNI"
+    },
+    "DocumentNumber":"34031555",
+    "Name":"Carlos",
+    "Surname":"Test",
+    "Birthdate":"2020-03-30 14:18:32.997",
+    "Age":"31",
+    "GenderId":"ID_MALE",
+    "Gender":{
+      "Id":"ID_MALE",
+      "Name":"Masculino"
+    },
+    "NationalityId":"ID_ARGENTINO",
+    "DeviceId":"DeviceId_1",
+    "Device":{
+      "Id":"DeviceId_1",
+      "Name":"Dispositivo 1"
+    }
+  },
+  "ZoneId":"66028006301010002",
+  "Zone":{
+    "Id":"66028006301010002",
+    "Name":"La Loma"
+  },
+  "LastSurveyId":"SurveyId_1",
+  "RegisterDate":"2020-03-30 14:18:32.997",
+  "Surveys":[
+    {
+      "Id":"SurveyId_1",
+      "TestId":"TestId_1",
+      "HealthCoverageId":"ID_NTC_HOSPITAL_PUBLICO","YouHaveTraveled":"No",
+      "Where":"",
+      "YouHaveHadContact":"No",
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "SurveySymptoms":[
+        {
+          "Id":"SurveySymptomId_1",
+          "SurveyId":"SurveyId_1",
+          "SymptomId":"ID_DOLOR_GARGANTA",
+          "Symtom":{
+            "Id":"ID_DOLOR_GARGANTA",
+            "Name":"Dolor de Garganta"
+          }
+        }],
+      "SurveyRiskFactors":[],
+      "SurveyStates":[
+        {
+          "Id":"SurveyStateId_1",
+          "SurveyId":"SurveyId_1",
+          "StateId":"ID_GREEN",
+          "State":{
+            "Id":"ID_GREEN",
+            "Name":"Codigo Verde",
+            "Code":"#007000"
+            
+          },"RegisterDate":"2020-03-30 14:18:32.997"
+          
+        }],
+      "SurveyActions":[
+        {
+          "Id":"SurveyActionId_1",
+          "SurveyId":"SurveyId_1",
+          "ActionId":"ID_PENDING",
+          "Action":{
+            "Id":"ID_PENDING",
+            "Name":"Pendiente de Atención"
+            
+          },
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }],
+      "Contacts":[
+        {
+          "Id":"ContacId_1",
+          "SurveyId":"SurveyId_1",
+          "PhoneNumber":"3874114987",
+          "RelationShipId":"ID_VECINO",
+          "RelationShip":{
+            "Id":"ID_VECINO",
+            "Name":"VECINO"
+          }
+        }]
+    }]
+},
+{
+  "Id":"TestId_2",
+  "PersonId":"PersonId_2",
+  "Person":{
+    "Id":"PersonId_2",
+    "DocumentTypeId":"ID_DNI",
+    "DocumentType": {
+      "Id":"ID_DNI",
+      "Name": "DNI"
+    },
+    "DocumentNumber":"887998795",
+    "Name":"Usuario",
+    "Surname":"Test",
+    "Birthdate":"2020-03-31 14:18:32.997",
+    "Age":"22",
+    "GenderId":"ID_MALE",
+    "Gender":{
+      "Id":"ID_MALE",
+      "Name":"Masculino"
+    },
+    "NationalityId":"ID_ARGENTINO",
+    "DeviceId":"DeviceId_2",
+    "Device":{
+      "Id":"DeviceId_2",
+      "Name":"Dispositivo 2"
+    }
+  },
+  "ZoneId":"660280063",
+  "Zone":{
+    "Id":"660280063",
+    "Name":"Capital"
+  },
+  "LastSurveyId":"SurveyId_2",
+  "RegisterDate":"2020-03-31 14:18:32.997",
+  "Surveys":[
+    {
+      "Id":"SurveyId_2",
+      "TestId":"TestId_2",
+      "HealthCoverageId":"ID_OTROS",
+      "YouHaveTraveled":"No",
+      "Where":"",
+      "YouHaveHadContact":"No",
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "SurveySymptoms":[
+        {
+          "Id":"SurveySymptomId_2",
+          "SurveyId":"SurveyId_2",
+          "SymptomId":"ID_DOLOR_GARGANTA",
+          "Symtom":{
+            "Id":"ID_DOLOR_GARGANTA",
+            "Name":"Dolor de Garganta"
+          }
+        },
+        {
+          "Id":"SurveySymptomId_3",
+          "SurveyId":"SurveyId_2",
+          "SymptomId":"ID_FIEBRE",
+          "Symtom":{
+            "Id":"ID_FIEBRE",
+            "Name":"Fiebre (fiebre de 38º o mas)"
+          }
+        },
+        {
+          "Id":"SurveySymptomId_4",
+          "SurveyId":"SurveyId_2",
+          "SymptomId":"ID_DIFICULTAD_RESPIRATORIA",
+          "Symtom":{
+            "Id":"ID_DIFICULTAD_RESPIRATORIA",
+            "Name":"Dificultad respiratoria (agitación, disnea, falta de aire)"
+          }
+        }],
+      "SurveyRiskFactors":[
+        {
+          "Id":"SurveyRiskFactorId_1",
+          "SurveyId":"SurveyId_2",
+          "RiskFactorId":"ID_ASMA",
+          "RiskFactor":{
+            "Id":"ID_ASMA",
+            "Name":"Asma"
+          }
+        },
+        {
+          "Id":"SurveyRiskFactorId_2",
+          "SurveyId":"SurveyId_2",
+          "RiskFactorId":"ID_FUMADOR",
+          "RiskFactor":{
+            "Id":"ID_FUMADOR",
+            "Name":"Fumador"
+          }
+        }],
+      "SurveyStates":[
+        {
+          "Id":"SurveyStateId_2",
+          "SurveyId":"SurveyId_2",
+          "StateId":"ID_RED",
+          "State":{
+            "Id":"ID_RED",
+            "Name":"Codigo Rojo",
+            "Code":"#FF0000"
+            
+          },"RegisterDate":"2020-03-31 14:18:32.997"
+          
+        }],
+      "SurveyActions":[
+        {
+          "Id":"SurveyActionId_2",
+          "SurveyId":"SurveyId_2",
+          "ActionId":"ID_CONFINED",
+          "Action":{
+            "Id":"ID_CONFINED",
+            "Name":"Internado"
+            
+          },
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }],
+      "Contacts":[
+        {
+          "Id":"ContacId_2",
+          "SurveyId":"SurveyId_2",
+          "PhoneNumber":"3874116667",
+          "RelationShipId":"ID_PARIENTE",
+          "RelationShip":{
+            "Id":"ID_PARIENTE",
+            "Name":"PARIENTE"
+          }
+        }]
+    }]
+},
+{
+  "Id":"TestId_3",
+  "PersonId":"PersonId_3",
+  "Person":{
+    "Id":"PersonId_3",
+    "DocumentTypeId":"ID_DNI",
+    "DocumentType": {
+      "Id":"ID_DNI",
+      "Name": "DNI"
+    },
+    "DocumentNumber":"887998795",
+    "Name":"Otro Usuario",
+    "Surname":"Test",
+    "Birthdate":"2020-03-20 14:18:32.997",
+    "Age":"28",
+    "GenderId":"ID_FEMALE",
+    "Gender":{
+      "Id":"ID_FEMALE",
+      "Name":"Femenino"
+    },
+    "NationalityId":"ID_ARGENTINO",
+    "DeviceId":"DeviceId_3",
+    "Device":{
+      "Id":"DeviceId_3",
+      "Name":"Dispositivo 3"
+    }
+  },
+  "ZoneId":"66028006301010007",
+  "Zone":{
+    "Id":"66028006301010007",
+    "Name":"Grand Bourg"
+  },
+  "LastSurveyId":"SurveyId_3",
+  "RegisterDate":"2020-03-31 14:18:32.997",
+  "Surveys":[
+    {
+      "Id":"SurveyId_3",
+      "TestId":"TestId_3",
+      "HealthCoverageId":"ID_MUTUAL",
+      "YouHaveTraveled":"No",
+      "Where":"",
+      "YouHaveHadContact":"No",
+      "RegisterDate":"2020-03-20 14:18:32.997",
+      "SurveySymptoms":[
+        {
+          "Id":"SurveySymptomId_5",
+          "SurveyId":"SurveyId_3",
+          "SymptomId":"ID_FIEBRE",
+          "Symtom":{
+            "Id":"ID_FIEBRE",
+            "Name":"Fiebre (fiebre de 38º o mas)"
+          }
+        },
+        {
+          "Id":"SurveySymptomId_6",
+          "SurveyId":"SurveyId_3",
+          "SymptomId":"ID_TOS",
+          "Symtom":{
+            "Id":"ID_TOS",
+            "Name":"Tos"
+          }
+        }],
+      "SurveyRiskFactors":[
+        {
+          "Id":"SurveyRiskFactorId_3",
+          "SurveyId":"SurveyId_3",
+          "RiskFactorId":"ID_DBT",
+          "RiskFactor":{
+            "Id":"ID_DBT",
+            "Name":"Diabetes/Azucar alta (DBT)"
+          }
+        }],
+      "SurveyStates":[
+        {
+          "Id":"SurveyStateId_3",
+          "SurveyId":"SurveyId_3",
+          "StateId":"ID_YELLOW",
+          "State":{
+            "Id":"ID_YELLOW",
+            "Name":"Codigo Amarillo",
+            "Code":"#FFFF00"
+            
+          },"RegisterDate":"2020-03-20 14:18:32.997"
+          
+        }],
+      "SurveyActions":[
+        {
+          "Id":"SurveyActionId_3",
+          "SurveyId":"SurveyId_3",
+          "ActionId":"ID_QUARANTINE",
+          "Action":{
+            "Id":"ID_QUARANTINE",
+            "Name":"Cuarentena"
+            
+          },
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }],
+      "Contacts":[
+        {
+          "Id":"ContacId_3",
+          "SurveyId":"SurveyId_3",
+          "PhoneNumber":"3874116457",
+          "RelationShipId":"ID_FIJO_VIVIENDA",
+          "RelationShip":{
+            "Id":"ID_FIJO_VIVIENDA",
+            "Name":"FIJO DE LA VIVIENDA"
+          }
+        }]
+    }]
+}]
