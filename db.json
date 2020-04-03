@@ -1,4 +1,5 @@
-[{
+{
+  "tests":[{
   "Id":"TestId_1",
   "PersonId":"PersonId_1",
   "Person":{
@@ -327,3 +328,4 @@
         }]
     }]
 }]
+}
