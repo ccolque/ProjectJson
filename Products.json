@@ -8,7 +8,7 @@
     "CategoryId": "CategoryId_1",
     "CategoryName": "Notebooks",
     "Stock": 9999,
-    "Photo": "assets/img/product01",
+    "Photo": "assets/img/product01.png",
     "RegisterDate":"2020-03-30 14:18:32.997"
   },
   {
@@ -20,7 +20,7 @@
     "CategoryId": "CategoryId_1",
     "CategoryName": "Notebooks",
     "Stock": 9999,
-    "Photo": "assets/img/product03",
+    "Photo": "assets/img/product03.png",
     "RegisterDate":"2020-03-30 14:18:32.997"
   },
   {
@@ -32,7 +32,7 @@
     "CategoryId": "CategoryId_1",
     "CategoryName": "Notebooks",
     "Stock": 9999,
-    "Photo": "assets/img/product06",
+    "Photo": "assets/img/product06.png",
     "RegisterDate":"2020-03-30 14:18:32.997"
   },
   {
@@ -44,7 +44,7 @@
     "CategoryId": "CategoryId_1",
     "CategoryName": "Notebooks",
     "Stock": 9999,
-    "Photo": "assets/img/product08",
+    "Photo": "assets/img/product08.png",
     "RegisterDate":"2020-03-30 14:18:32.997"
   },
   {
@@ -56,7 +56,7 @@
     "CategoryId": "CategoryId_2",
     "CategoryName": "Celulares y Tablets",
     "Stock": 9999,
-    "Photo": "assets/img/product04",
+    "Photo": "assets/img/product04.png",
     "RegisterDate":"2020-03-30 14:18:32.997"
   },
   {
@@ -68,7 +68,7 @@
     "CategoryId": "CategoryId_2",
     "CategoryName": "Celulares y Tablets",
     "Stock": 9999,
-    "Photo": "assets/img/product07",
+    "Photo": "assets/img/product07.png",
     "RegisterDate":"2020-03-30 14:18:32.997"
   },
   {
@@ -80,7 +80,7 @@
     "CategoryId": "CategoryId_3",
     "CategoryName": "Camaras",
     "Stock": 9999,
-    "Photo": "assets/img/product09",
+    "Photo": "assets/img/product09.png",
     "RegisterDate":"2020-03-30 14:18:32.997"
   },
   {
@@ -92,7 +92,7 @@
     "CategoryId": "CategoryId_4",
     "CategoryName": "Accesorios",
     "Stock": 9999,
-    "Photo": "assets/img/product02",
+    "Photo": "assets/img/product02.png",
     "RegisterDate":"2020-03-30 14:18:32.997"
   },
   {
@@ -104,7 +104,7 @@
     "CategoryId": "CategoryId_4",
     "CategoryName": "Accesorios",
     "Stock": 9999,
-    "Photo": "assets/img/product05",
+    "Photo": "assets/img/product05.png",
     "RegisterDate":"2020-03-30 14:18:32.997"
   }
 ]
