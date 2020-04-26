@@ -54,6 +54,7 @@
       "SalePrice": 20000,
       "BrandId":"BrandId_1",
       "CategoryId": "CategoryId_1",
+      "CategoryName": "Notebooks",
       "Stock": 9999,
       "Photo": "assets/img/product01",
       "RegisterDate":"2020-03-30 14:18:32.997"
@@ -65,6 +66,7 @@
       "SalePrice": 30000,
       "BrandId":"BrandId_2",
       "CategoryId": "CategoryId_1",
+      "CategoryName": "Notebooks",
       "Stock": 9999,
       "Photo": "assets/img/product03",
       "RegisterDate":"2020-03-30 14:18:32.997"
@@ -76,6 +78,7 @@
       "SalePrice": 25000,
       "BrandId":"BrandId_3",
       "CategoryId": "CategoryId_1",
+      "CategoryName": "Notebooks",
       "Stock": 9999,
       "Photo": "assets/img/product06",
       "RegisterDate":"2020-03-30 14:18:32.997"
@@ -87,6 +90,7 @@
       "SalePrice": 29000,
       "BrandId":"BrandId_3",
       "CategoryId": "CategoryId_1",
+      "CategoryName": "Notebooks",
       "Stock": 9999,
       "Photo": "assets/img/product08",
       "RegisterDate":"2020-03-30 14:18:32.997"
@@ -98,6 +102,7 @@
       "SalePrice": 10000,
       "BrandId":"BrandId_1",
       "CategoryId": "CategoryId_2",
+      "CategoryName": "Celulares y Tablets",
       "Stock": 9999,
       "Photo": "assets/img/product04",
       "RegisterDate":"2020-03-30 14:18:32.997"
@@ -109,6 +114,7 @@
       "SalePrice": 16000,
       "BrandId":"BrandId_2",
       "CategoryId": "CategoryId_2",
+      "CategoryName": "Celulares y Tablets",
       "Stock": 9999,
       "Photo": "assets/img/product07",
       "RegisterDate":"2020-03-30 14:18:32.997"
@@ -120,6 +126,7 @@
       "SalePrice": 12000,
       "BrandId":"BrandId_3",
       "CategoryId": "CategoryId_3",
+      "CategoryName": "Camaras",
       "Stock": 9999,
       "Photo": "assets/img/product09",
       "RegisterDate":"2020-03-30 14:18:32.997"
@@ -131,6 +138,7 @@
       "SalePrice": 1200,
       "BrandId":"BrandId_1",
       "CategoryId": "CategoryId_4",
+      "CategoryName": "Accesorios",
       "Stock": 9999,
       "Photo": "assets/img/product02",
       "RegisterDate":"2020-03-30 14:18:32.997"
@@ -142,6 +150,7 @@
       "SalePrice": 1500,
       "BrandId":"BrandId_3",
       "CategoryId": "CategoryId_4",
+      "CategoryName": "Accesorios",
       "Stock": 9999,
       "Photo": "assets/img/product05",
       "RegisterDate":"2020-03-30 14:18:32.997"
