@@ -1,0 +1,137 @@
+[
+  {
+    "Id":"CategoryId_1",
+    "Name":"Notebooks",
+    "Description":"Computadoras Portatiles",
+    "Photo":"assets/img/shop01.png",
+    "RegisterDate":"2020-03-30 14:18:32.997",
+    "Products":[
+      {
+        "Id":"ProductId_1",
+        "Name":"Notebook Samsung",
+        "Description":"Notebook Samsung nueva sin uso",
+        "SalePrice": 20000,
+        "BrandId":"BrandId_1",
+        "CategoryId": "CategoryId_1",
+        "Stock": 9999,
+        "Photo": "assets/img/product01",
+        "RegisterDate":"2020-03-30 14:18:32.997"
+      },
+      {
+        "Id":"ProductId_2",
+        "Name":"Notebook LG",
+        "Description":"Notebook LG nueva sin uso",
+        "SalePrice": 30000,
+        "BrandId":"BrandId_2",
+        "CategoryId": "CategoryId_1",
+        "Stock": 9999,
+        "Photo": "assets/img/product03",
+        "RegisterDate":"2020-03-30 14:18:32.997"
+      },
+      {
+        "Id":"ProductId_3",
+        "Name":"Notebook Sony",
+        "Description":"Notebook Sony nueva sin uso",
+        "SalePrice": 25000,
+        "BrandId":"BrandId_3",
+        "CategoryId": "CategoryId_1",
+        "Stock": 9999,
+        "Photo": "assets/img/product06",
+        "RegisterDate":"2020-03-30 14:18:32.997"
+      },
+      {
+        "Id":"ProductId_4",
+        "Name":"Notebook Sony 2",
+        "Description":"Notebook Sony 2 nueva sin uso",
+        "SalePrice": 29000,
+        "BrandId":"BrandId_3",
+        "CategoryId": "CategoryId_1",
+        "Stock": 9999,
+        "Photo": "assets/img/product08",
+        "RegisterDate":"2020-03-30 14:18:32.997"
+      }
+    ]
+  },
+  {
+    "Id":"CategoryId_2",
+    "Name":"Celulares y Tablets",
+    "Description":"Celulares y Tablets",
+    "Photo":"assets/img/product07.png",
+    "RegisterDate":"2020-03-30 14:18:32.997",
+    "Products":[
+      {
+        "Id":"ProductId_5",
+        "Name":"Tablet Samsung",
+        "Description":"Tablet Samsung nueva sin uso",
+        "SalePrice": 10000,
+        "BrandId":"BrandId_1",
+        "CategoryId": "CategoryId_2",
+        "Stock": 9999,
+        "Photo": "assets/img/product04",
+        "RegisterDate":"2020-03-30 14:18:32.997"
+      },
+      {
+        "Id":"ProductId_6",
+        "Name":"Celular LG",
+        "Description":"Celular LG nueva sin uso",
+        "SalePrice": 16000,
+        "BrandId":"BrandId_2",
+        "CategoryId": "CategoryId_2",
+        "Stock": 9999,
+        "Photo": "assets/img/product07",
+        "RegisterDate":"2020-03-30 14:18:32.997"
+      }
+    ]
+  },
+  {
+    "Id":"CategoryId_3",
+    "Name":"Camaras",
+    "Description":"Celulares y Tablets",
+    "Photo":"assets/img/product07.png",
+    "RegisterDate":"2020-03-30 14:18:32.997",
+    "Products":[
+      {
+        "Id":"ProductId_7",
+        "Name":"Camara Sony",
+        "Description":"Camara Samsung nueva sin uso",
+        "SalePrice": 12000,
+        "BrandId":"BrandId_3",
+        "CategoryId": "CategoryId_3",
+        "Stock": 9999,
+        "Photo": "assets/img/product09",
+        "RegisterDate":"2020-03-30 14:18:32.997"
+      }
+    ]
+  },
+  {
+    "Id":"CategoryId_4",
+    "Name":"Accesorios",
+    "Description":"Accesorios",
+    "Photo":"assets/img/shop02.png",
+    "RegisterDate":"2020-03-30 14:18:32.997",
+    "Products":[
+      {
+        "Id":"ProductId_8",
+        "Name":"Auriculares Samsung",
+        "Description":"Auriculares Samsung nueva sin uso",
+        "SalePrice": 1200,
+        "BrandId":"BrandId_1",
+        "CategoryId": "CategoryId_4",
+        "Stock": 9999,
+        "Photo": "assets/img/product02",
+        "RegisterDate":"2020-03-30 14:18:32.997"
+      },
+      {
+        "Id":"ProductId_9",
+        "Name":"Auriculares Sony",
+        "Description":"Auriculares Sony nueva sin uso",
+        "SalePrice": 1500,
+        "BrandId":"BrandId_3",
+        "CategoryId": "CategoryId_4",
+        "Stock": 9999,
+        "Photo": "assets/img/product05",
+        "RegisterDate":"2020-03-30 14:18:32.997"
+      }
+    ]
+  }
+]

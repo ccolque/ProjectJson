@@ -1,0 +1,17 @@
+[
+  {
+    "Id":"BrandId_1",
+    "Name":"Samsung",
+    "RegisterDate":"2020-03-30 14:18:32.997"
+  },
+  {
+    "Id":"BrandId_2",
+    "Name":"LG",
+    "RegisterDate":"2020-03-30 14:18:32.997"
+  },
+  {
+    "Id":"BrandId_3",
+    "Name":"Sony",
+    "RegisterDate":"2020-03-30 14:18:32.997"
+  }
+]
