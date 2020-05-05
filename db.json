@@ -57,7 +57,41 @@
       "CategoryName": "Notebooks",
       "Stock": 9999,
       "Photo": "assets/img/product01.png",
-      "RegisterDate":"2020-03-30 14:18:32.997"
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "Multimedias": [
+        {
+          "Id": "MultimediaId_1",
+          "Url": "assets/img/product01.png",
+          "FileName": "product 01",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_2",
+          "Url": "assets/img/product03.png",
+          "FileName": "product 03",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_3",
+          "Url": "assets/img/product06.png",
+          "FileName": "product 06",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_4",
+          "Url": "assets/img/product08.png",
+          "FileName": "product 08",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }
+      ]
     },
     {
       "Id":"ProductId_2",
@@ -69,7 +103,41 @@
       "CategoryName": "Notebooks",
       "Stock": 9999,
       "Photo": "assets/img/product03.png",
-      "RegisterDate":"2020-03-30 14:18:32.997"
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "Multimedias": [
+        {
+          "Id": "MultimediaId_1",
+          "Url": "assets/img/product01.png",
+          "FileName": "product 01",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_2",
+          "Url": "assets/img/product03.png",
+          "FileName": "product 03",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_3",
+          "Url": "assets/img/product06.png",
+          "FileName": "product 06",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_4",
+          "Url": "assets/img/product08.png",
+          "FileName": "product 08",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }
+      ]
     },
     {
       "Id":"ProductId_3",
@@ -81,7 +149,41 @@
       "CategoryName": "Notebooks",
       "Stock": 9999,
       "Photo": "assets/img/product06.png",
-      "RegisterDate":"2020-03-30 14:18:32.997"
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "Multimedias": [
+        {
+          "Id": "MultimediaId_1",
+          "Url": "assets/img/product01.png",
+          "FileName": "product 01",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_2",
+          "Url": "assets/img/product03.png",
+          "FileName": "product 03",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_3",
+          "Url": "assets/img/product06.png",
+          "FileName": "product 06",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_4",
+          "Url": "assets/img/product08.png",
+          "FileName": "product 08",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }
+      ]
     },
     {
       "Id":"ProductId_4",
@@ -93,7 +195,41 @@
       "CategoryName": "Notebooks",
       "Stock": 9999,
       "Photo": "assets/img/product08.png",
-      "RegisterDate":"2020-03-30 14:18:32.997"
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "Multimedias": [
+        {
+          "Id": "MultimediaId_1",
+          "Url": "assets/img/product01.png",
+          "FileName": "product 01",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_2",
+          "Url": "assets/img/product03.png",
+          "FileName": "product 03",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_3",
+          "Url": "assets/img/product06.png",
+          "FileName": "product 06",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_4",
+          "Url": "assets/img/product08.png",
+          "FileName": "product 08",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }
+      ]
     },
     {
       "Id":"ProductId_5",
@@ -105,7 +241,17 @@
       "CategoryName": "Celulares y Tablets",
       "Stock": 9999,
       "Photo": "assets/img/product04.png",
-      "RegisterDate":"2020-03-30 14:18:32.997"
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "Multimedias": [
+        {
+          "Id": "MultimediaId_5",
+          "Url": "assets/img/product04.png",
+          "FileName": "product 04",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }
+      ]
     },
     {
       "Id":"ProductId_6",
@@ -117,7 +263,25 @@
       "CategoryName": "Celulares y Tablets",
       "Stock": 9999,
       "Photo": "assets/img/product07.png",
-      "RegisterDate":"2020-03-30 14:18:32.997"
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "Multimedias": [
+        {
+          "Id": "MultimediaId_6",
+          "Url": "assets/img/product07.png",
+          "FileName": "product 07",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_7",
+          "Url": "assets/img/product09.png",
+          "FileName": "product 09",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }
+      ]
     },
     {
       "Id":"ProductId_7",
@@ -129,7 +293,25 @@
       "CategoryName": "Camaras",
       "Stock": 9999,
       "Photo": "assets/img/product09.png",
-      "RegisterDate":"2020-03-30 14:18:32.997"
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "Multimedias": [
+        {
+          "Id": "MultimediaId_6",
+          "Url": "assets/img/product07.png",
+          "FileName": "product 07",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_7",
+          "Url": "assets/img/product09.png",
+          "FileName": "product 09",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }
+      ]
     },
     {
       "Id":"ProductId_8",
@@ -141,7 +323,25 @@
       "CategoryName": "Accesorios",
       "Stock": 9999,
       "Photo": "assets/img/product02.png",
-      "RegisterDate":"2020-03-30 14:18:32.997"
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "Multimedias":[
+        {
+          "Id": "MultimediaId_8",
+          "Url": "assets/img/product02.png",
+          "FileName": "product 02",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_9",
+          "Url": "assets/img/product05.png",
+          "FileName": "product 05",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }
+      ]
     },
     {
       "Id":"ProductId_9",
@@ -153,7 +353,25 @@
       "CategoryName": "Accesorios",
       "Stock": 9999,
       "Photo": "assets/img/product05.png",
-      "RegisterDate":"2020-03-30 14:18:32.997"
+      "RegisterDate":"2020-03-30 14:18:32.997",
+      "Multimedias":[
+        {
+          "Id": "MultimediaId_8",
+          "Url": "assets/img/product02.png",
+          "FileName": "product 02",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        },
+        {
+          "Id": "MultimediaId_9",
+          "Url": "assets/img/product05.png",
+          "FileName": "product 05",
+          "Duration": 0,
+          "MultimediaTypeId": "COD_IMAGEN",
+          "RegisterDate":"2020-03-30 14:18:32.997"
+        }
+      ]
     }
   ]
 }
